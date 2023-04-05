@@ -9,6 +9,8 @@
   - Bresenham's Circle Algorithm
 - 도형 위치 이동, 크기 변환, 회전
   - 선형대수학 행렬 연산을 이용하여 구현
+- 클리핑 알고리즘
+  - Liang-Barsky Parametric Line Clipping Algorithm
 
 ### Components
 - Java(Swing)
